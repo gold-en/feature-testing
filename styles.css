@@ -277,4 +277,10 @@ p {
   .active {
     margin-top: 1px;
   }
+  .delete-yes-no {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 10px;
+}
 }
